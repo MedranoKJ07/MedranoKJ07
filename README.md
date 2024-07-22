@@ -5,7 +5,7 @@
 ## Acerca de mí 😮‍💨
 Soy un estudiante de 19 años de edad, enfocado en mi carrera de Ingeniería de Sistemas. Mi pasión por la tecnología me motiva a buscar constantemente nuevas oportunidades de aprendizaje y crecimiento en el mundo del desarrollo.
 
-## Conéctate conmigo
+
 - 🌐 [Facebook](https://www.facebook.com/kerlint.medrano)
 - 📸 [Instagram](https://www.instagram.com/kerlint_medrano)
 - ✉️ Correo electrónico: kmurillojosue75@gmail.com
